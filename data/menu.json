@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "id": "mains",
+      "name": "主食",
+      "items": [
+        {
+          "id": "hongshao-rou",
+          "name": "红烧肉",
+          "desc": "肥瘦相间，酱香软糯。想吃就点，厨师加班也愿意。",
+          "hearts": 8,
+          "emoji": "🍖",
+          "color": "#f3d0c4",
+          "recommend": true
+        },
+        {
+          "id": "tomato-egg",
+          "name": "番茄炒蛋",
+          "desc": "家常里的安全感。酸甜刚好，配一碗米饭刚刚好。",
+          "hearts": 3,
+          "emoji": "🍅",
+          "color": "#f8d4c8",
+          "recommend": true
+        },
+        {
+          "id": "egg-fried-rice",
+          "name": "蛋炒饭",
+          "desc": "粒粒分开，简单但认真。夜宵和正餐都合适。",
+          "hearts": 4,
+          "emoji": "🍚",
+          "color": "#f3e6c8"
+        },
+        {
+          "id": "tangcu-paigu",
+          "name": "糖醋排骨",
+          "desc": "外层亮亮的糖醋汁，酸甜到会想再啃一根。",
+          "hearts": 7,
+          "emoji": "🦴",
+          "color": "#f0cfc0"
+        },
+        {
+          "id": "gongbao",
+          "name": "宫保鸡丁",
+          "desc": "花生脆、鸡丁嫩。默认微辣，可在备注里写少辣。",
+          "hearts": 6,
+          "emoji": "🍗",
+          "color": "#ebd0b0"
+        },
+        {
+          "id": "rice",
+          "name": "白米饭",
+          "desc": "一碗热的。有些菜没有它就少了一半。",
+          "hearts": 1,
+          "emoji": "🍙",
+          "color": "#efe8dc"
+        }
+      ]
+    },
+    {
+      "id": "soup",
+      "name": "汤",
+      "items": [
+        {
+          "id": "paigu-tang",
+          "name": "排骨汤",
+          "desc": "慢火煨过的汤，适合想被好好照顾的晚上。",
+          "hearts": 6,
+          "emoji": "🍲",
+          "color": "#ead7c3",
+          "recommend": true
+        },
+        {
+          "id": "tomato-egg-soup",
+          "name": "番茄蛋汤",
+          "desc": "清清爽爽的一碗，饭前喝也行，配菜也行。",
+          "hearts": 3,
+          "emoji": "🥣",
+          "color": "#f5d6c8"
+        },
+        {
+          "id": "egg-drop",
+          "name": "蛋花汤",
+          "desc": "三分钟的温柔。夜里不想太复杂时点它。",
+          "hearts": 2,
+          "emoji": "🥚",
+          "color": "#f2ead4"
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "name": "小菜",
+      "items": [
+        {
+          "id": "cucumber",
+          "name": "凉拌黄瓜",
+          "desc": "拍过的脆。解腻、清口，桌子上总该有一碟绿的。",
+          "hearts": 2,
+          "emoji": "🥒",
+          "color": "#d7ead4"
+        },
+        {
+          "id": "brocoli",
+          "name": "蒜蓉西兰花",
+          "desc": "蒜香，还带着一点清甜。可以说服自己今天有在吃蔬菜。",
+          "hearts": 3,
+          "emoji": "🥦",
+          "color": "#d4e6d8"
+        },
+        {
+          "id": "potato-shreds",
+          "name": "青椒土豆丝",
+          "desc": "酸辣爽脆，下饭选手。想吃得有声音就点这个。",
+          "hearts": 3,
+          "emoji": "🥔",
+          "color": "#e9e0c4"
+        },
+        {
+          "id": "greens",
+          "name": "清炒时蔬",
+          "desc": "当天能买到什么就炒什么，绿油油的一份安心。",
+          "hearts": 3,
+          "emoji": "🥬",
+          "color": "#dde8d2"
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": "甜品饮料",
+      "items": [
+        {
+          "id": "yangzhi-ganlu",
+          "name": "杨枝甘露",
+          "desc": "芒果、西米、椰浆。饭后留给你的一小勺甜。",
+          "hearts": 5,
+          "emoji": "🥭",
+          "color": "#f7e3b0",
+          "recommend": true
+        },
+        {
+          "id": "milk-tea",
+          "name": "珍珠奶茶",
+          "desc": "半糖去冰可以写在备注。珍珠要嚼得见。",
+          "hearts": 4,
+          "emoji": "🧋",
+          "color": "#e6d3c2"
+        },
+        {
+          "id": "red-bean-ice",
+          "name": "红豆冰",
+          "desc": "冰冰的红豆和牛奶。夏天，或者假装是夏天。",
+          "hearts": 4,
+          "emoji": "🍧",
+          "color": "#f0d0d4"
+        },
+        {
+          "id": "ginger-tea",
+          "name": "红糖姜茶",
+          "desc": "暖手、暖胃。点给容易手脚凉的那个人。",
+          "hearts": 2,
+          "emoji": "🍵",
+          "color": "#ead3b8"
+        }
+      ]
+    }
+  ]
+}
